@@ -1,11 +1,3 @@
-<style>
-    .img {
-        display:block;
-        margin-bottom:20px;
-        width:400px;
-    }
-</style>
-
 # Refactor Madness
 This challenge begun by cloning the [urban-octo-telegram repository](https://github.com/coding-boot-camp/urban-octo-telegram).
 
@@ -16,15 +8,15 @@ minor typos in index.html and style.css, and tracked the whole process with mult
 
 Here is an image of the mock-up I was provided:
 
-<img src="./Develop/assets/images/mock-up.png" alt="mock-up" class="img">
+<img src="./Develop/assets/images/mock-up.png" alt="mock-up">
 
 Here are three screenshots of the page I am submitting:
 
-<img src="./Develop/assets/images/screenshot1.png" alt="screenshot1" class="img">
+<img src="./Develop/assets/images/screenshot1.png" alt="screenshot1">
 
-<img src="./Develop/assets/images/screenshot2.png" alt="screenshot2" class="img">
+<img src="./Develop/assets/images/screenshot2.png" alt="screenshot2">
 
-<img src="./Develop/assets/images/screenshot3.png" alt="screenshot3" class="img">
+<img src="./Develop/assets/images/screenshot3.png" alt="screenshot3">
 
 
 Please check it all out at my [refactor-madness git repository](https://github.com/mikeyrod22/refactor-madness)! 

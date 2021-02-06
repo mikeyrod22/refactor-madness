@@ -17,16 +17,6 @@ p {
     font-size: 16px;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 /* HEADER STYLES BEGIN */
 .header {
     padding: 20px;
@@ -40,7 +30,7 @@ p {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
@@ -89,6 +79,16 @@ p {
 
 .content-item img {
     max-height: 200px;
+}
+
+.content-item:nth-of-type(odd) img {
+    float:left;
+    margin-right: 20px;
+}
+
+.content-item:nth-of-type(even) img {
+    float:right;
+    margin-left: 20px;
 }
 
 .content-item h2 {

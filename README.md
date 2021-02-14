@@ -18,7 +18,4 @@ Here are three screenshots of the page I am submitting:
 
 <img src="./Develop/assets/images/screenshot3.png" alt="screenshot3">
 
-
-Please check it all out at my [refactor-madness git repository](https://github.com/mikeyrod22/refactor-madness)! 
-
-Please also check out my [deployed site](https://mikeyrod22.github.io/refactor-madness/).
+Check out my [deployed site](https://mikeyrod22.github.io/refactor-madness/)!
